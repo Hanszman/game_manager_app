@@ -3,3 +3,5 @@
 https://api-docs.igdb.com/#about
 
 https://github.com/andshrew/PlayStation-Trophies
+
+https://github.com/ckatzorke/howlongtobeat
